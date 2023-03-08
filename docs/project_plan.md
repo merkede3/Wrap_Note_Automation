@@ -79,7 +79,7 @@ _________________________
 | Item | Details | Notes / Mitigation (Optional) |
 | -----------: | :-----------: | :-----------: | 
 | Data location/s identified | ✔️ | [comment] |
-| Data location/s accessible | ✔️ | Accessible through AWS Redshift |
+| Data location/s accessible | ✔️ | - |
 | Labour resource needed (eg # Data Scientists) | 1 x Lead, 1 x Data Scientist |  [-] |
 | Technical Resource needed () | Databricks, Azure ML | [-] |
 | Technical Skillset required | Transformers/Hugging Face  | [-] |
